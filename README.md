@@ -10,7 +10,7 @@ Q: Какой дистрибутив самый быстрый?
 
 Q. Как писать по-русски?
 
-A. Введи в терминал `_setxkbmap -model pc105 -layout us,ru -option grp:alt_shift_toggle_`. Теперь *alt+shift* переключает раскладку (варианты в `/usr/share/keymaps/i386/qwerty/ruwin_*`). Если не найдёшь в настройках DE, то добавь в автозагрузку.
+A. Введи в терминал `setxkbmap -model pc105 -layout us,ru -option grp:alt_shift_toggle`. Теперь *alt+shift* переключает раскладку (варианты в `/usr/share/keymaps/i386/qwerty/ruwin_*`). Если не найдёшь в настройках DE, то добавь в автозагрузку.
 
 Q: Могу ли я поставить Linux на EFI, рядом с виндой, на флешку, etc.
 
