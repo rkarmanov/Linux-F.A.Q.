@@ -2,7 +2,7 @@
 
 Q: Какой [дистрибутив](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%B2_Linux) самый лучший?
 
-A: Лучшего нет. Новичку рекомендуется начать с [Mint](http://linuxmint.com/), [Ubuntu](http://ubuntu.ru/) или [OpenSuse](https://ru.opensuse.org).
+A: Лучшего нет. Новичку рекомендуется начать с [Mint](http://linuxmint.com/), [Ubuntu](http://ubuntu.ru/), [Manjaro](https://manjaro.github.io/) или [OpenSuse](https://ru.opensuse.org).
 
 Q: Какой дистрибутив самый быстрый?
 
